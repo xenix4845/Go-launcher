@@ -10,7 +10,7 @@ import (
 )
 
 const (
-    updateURL      = "https://stdmenu.kro.kr/launcher"
+    updateURL      = "https://stdmenu.kro.kr/updater"
     updateFileName = "updater.exe"
 )
 
